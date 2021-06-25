@@ -60,7 +60,7 @@ span {
   display: grid;
   gap: 2.5em;
   padding: 8em 4em;
-  border: 0.5em solid purple;
+  /* border: 0.5em solid purple; */
 }
 @media (min-width: 90em) {
   .container {
